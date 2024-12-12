@@ -11,3 +11,4 @@ print(f"encodedNumbers is a variable of type {type(encodedNumbers)} and contains
 
 decoded = json.loads(encodedNumbers)
 print(f"decodedNumbers is a variable of type {type(decoded)} and contains {decoded}")
+

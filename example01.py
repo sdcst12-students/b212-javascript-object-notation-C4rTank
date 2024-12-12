@@ -23,3 +23,5 @@ student = {
 
     }
 }
+
+print(student)
